@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1052566786300",
+    "firebase_url": "https://testechat-95b9a.firebaseio.com",
+    "project_id": "testechat-95b9a",
+    "storage_bucket": "testechat-95b9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052566786300:android:378f9ad1fe7b89b3",
+        "android_client_info": {
+          "package_name": "a8bits.leonardo_soares_santos.team8beats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052566786300-ni8id37hq32ovbdlc94k1i5tgkvhva6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "a8bits.leonardo_soares_santos.team8beats",
+            "certificate_hash": "c0f26a29d2c254615d65caefa3faf3149b79865d"
+          }
+        },
+        {
+          "client_id": "1052566786300-gecdi0ule1ppktr8atp66b5ibu06t2n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgBAzqp8UcMWKpM7A8CIkQ4z68dj-pGY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052566786300-gecdi0ule1ppktr8atp66b5ibu06t2n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052566786300:android:179f1f25731798ee",
+        "android_client_info": {
+          "package_name": "com.leonardo_soares_santos.time8bitsprojetochatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052566786300-fpilbevclafsdregi79ulo8dkfl1kn8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leonardo_soares_santos.time8bitsprojetochatbot",
+            "certificate_hash": "6d10a0a651ec41536fe073f454619686b139ec7f"
+          }
+        },
+        {
+          "client_id": "1052566786300-jte3fe27qhcmdq9agjtsq07ilbv4o2b3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leonardo_soares_santos.time8bitsprojetochatbot",
+            "certificate_hash": "c0f26a29d2c254615d65caefa3faf3149b79865d"
+          }
+        },
+        {
+          "client_id": "1052566786300-gecdi0ule1ppktr8atp66b5ibu06t2n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgBAzqp8UcMWKpM7A8CIkQ4z68dj-pGY4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052566786300-gecdi0ule1ppktr8atp66b5ibu06t2n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
